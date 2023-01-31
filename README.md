@@ -6,4 +6,5 @@ Implemented with [Styled-Components](https://styled-components.com/) using the s
 
 ## How it looks:
 
-![Without elements](https://gyazo.com/76d74236efe61db3ce96cbe89c6ca4bd)
+
+![todolist1](https://user-images.githubusercontent.com/37362195/215731126-c4831028-a467-4511-96c7-24dbafc6c1c7.png)
